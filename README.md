@@ -1,3 +1,5 @@
+# THIS REPO MAY NOT WORK. PLEASE UPDATE IT YOURSELF!
+
 # Telegram-MRE-Example
 
 This is an example of how to create dialogues between users and your Bot in Telegram using Manual Reset Events.
